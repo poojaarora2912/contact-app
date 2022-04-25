@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import {uuid} from "uuidv4";
+//import {uuid} from "uuidv4";
 import "./App.css";
 import AddNotes from "./AddNotes";
 import NotesList from "./NotesList";
